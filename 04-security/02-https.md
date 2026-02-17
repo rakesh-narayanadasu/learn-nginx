@@ -134,10 +134,6 @@ Reload Nginx and verify your site at `https://honda.cars.com`.
 * [mkcert](https://mkcert.dev)
 * [Nginx](https://nginx.org)
 
-> ## Documentation Index
-> Fetch the complete documentation index at: https://notes.kodekloud.com/llms.txt
-> Use this file to discover all available pages before exploring further.
-
 # Demo HTTPS
 
 In this you’ll learn how to:
@@ -335,3 +331,4 @@ Now, [https://example.com](https://example.com) → Nginx → one of your Apache
 * [mkcert GitHub Repository](https://github.com/FiloSottile/mkcert)
 * [Nginx SSL Module](https://nginx.org/en/docs/http/ngx_http_ssl_module.html)
 * [Apache SSL/TLS Encryption](https://httpd.apache.org/docs/2.4/ssl/)
+
