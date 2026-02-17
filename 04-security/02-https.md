@@ -6,7 +6,7 @@ This explains HTTPS, its importance for security and SEO, and how to implement i
 
 ### 1. Security
 
-When you access a website via HTTPS, all communication between your browser and the server is encrypted. On an unencrypted connection (HTTP), anyone on the same network—such as a coffee shop Wi-Fi could intercept your passwords, credit-card numbers, or personal details.
+When you access a website via HTTPS, all communication between your browser and the server is encrypted. On an unencrypted connection (HTTP), anyone on the same network such as a coffee shop Wi-Fi could intercept your passwords, credit-card numbers, or personal details.
 
 With HTTP, data is sent in plain text. An attacker can easily read it.\
 With HTTPS, intercepted data is encrypted and unreadable.
